@@ -36,6 +36,9 @@ sudo pip3 install cvxpy
 
 #5.  Books
 
+#NCERT
+https://github.com/gadepall/ncert-textbooks/tree/main/math
+
 #Matrices
 
 https://github.com/gadepall/matrix-analysis
@@ -54,3 +57,4 @@ https://github.com/gadepall/digital-communication
 #Signals
 
 https://github.com/gadepall/signal-processing
+
